@@ -2,7 +2,7 @@
 
 A real-time augmented reality computer vision application that tracks your hand gestures to create a dynamic, glowing neon frame containing comic-book-style Pop-Art filters. Built with Python, OpenCV, and Google's MediaPipe.
 
-![Demo Placeholder](https://via.placeholder.com/800x450.png?text=Replace+with+a+GIF+or+Screenshot+of+your+filter+in+action!)
+<img src="assets/ss.png" alt="ArtFilter demo" width="1200" />
 
 ##  Features
 
